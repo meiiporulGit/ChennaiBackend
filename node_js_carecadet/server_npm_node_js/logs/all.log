@@ -24586,3 +24586,150 @@ Aug-10-2023 14:23:14 [32mhttp[39m: [32mPOST /search 200 - - 1728.009 ms[39m
 [32m[39m
 Aug-10-2023 14:23:14 [32mhttp[39m: [32mPOST /search/serviceNamesearch 200 968 - 406.493 ms[39m
 [32m[39m
+Aug-10-2023 14:46:04 [32minfo[39m: [32mApp listening at http://localhost:5200[39m
+Aug-10-2023 14:46:04 [32minfo[39m: [32mEnvironment : development[39m
+Aug-10-2023 14:46:04 [32minfo[39m: [32m2023-08-10T09:16:04.496Z[39m
+Aug-10-2023 14:47:45 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 234.850 ms[39m
+[32m[39m
+Aug-10-2023 14:47:45 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 269.711 ms[39m
+[32m[39m
+Aug-10-2023 14:47:49 [32mhttp[39m: [32mPOST /search/serviceNamesearch 200 - - 344.355 ms[39m
+[32m[39m
+Aug-10-2023 14:47:49 [32mhttp[39m: [32mPOST /search/serviceNamesearch 200 199 - 105.640 ms[39m
+[32m[39m
+Aug-10-2023 14:47:49 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 176.229 ms[39m
+[32m[39m
+Aug-10-2023 14:47:49 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 188.906 ms[39m
+[32m[39m
+Aug-10-2023 14:49:04 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 176.502 ms[39m
+[32m[39m
+Aug-10-2023 14:49:04 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 193.737 ms[39m
+[32m[39m
+Aug-10-2023 14:49:09 [32mhttp[39m: [32mGET /FacilityType/findfacilityType 200 477 - 36.806 ms[39m
+[32m[39m
+Aug-10-2023 14:49:09 [32mhttp[39m: [32mGET /FacilityType/findfacilityType 200 477 - 35.305 ms[39m
+[32m[39m
+Aug-10-2023 14:49:09 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 150.677 ms[39m
+[32m[39m
+Aug-10-2023 14:49:09 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 150.943 ms[39m
+[32m[39m
+Aug-10-2023 14:49:10 [32mhttp[39m: [32mPOST /search 200 30 - 805.864 ms[39m
+[32m[39m
+Aug-10-2023 14:49:10 [32mhttp[39m: [32mPOST /search/serviceNamesearch 200 199 - 175.451 ms[39m
+[32m[39m
+Aug-10-2023 14:49:11 [32mhttp[39m: [32mPOST /search 200 30 - 2653.562 ms[39m
+[32m[39m
+Aug-10-2023 14:49:14 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 161.918 ms[39m
+[32m[39m
+Aug-10-2023 14:49:14 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 158.234 ms[39m
+[32m[39m
+Aug-10-2023 14:49:19 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 178.072 ms[39m
+[32m[39m
+Aug-10-2023 14:49:19 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 198.219 ms[39m
+[32m[39m
+Aug-10-2023 14:49:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 282.608 ms[39m
+[32m[39m
+Aug-10-2023 14:49:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 242.450 ms[39m
+[32m[39m
+Aug-10-2023 14:49:29 [32mhttp[39m: [32mPOST /search 200 493 - 864.415 ms[39m
+[32m[39m
+Aug-10-2023 14:49:30 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 176.092 ms[39m
+[32m[39m
+Aug-10-2023 14:49:30 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 185.062 ms[39m
+[32m[39m
+Aug-10-2023 14:49:35 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 199.295 ms[39m
+[32m[39m
+Aug-10-2023 14:49:35 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 197.644 ms[39m
+[32m[39m
+Aug-10-2023 14:49:40 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 202.923 ms[39m
+[32m[39m
+Aug-10-2023 14:49:40 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 202.426 ms[39m
+[32m[39m
+Aug-10-2023 14:49:45 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 178.084 ms[39m
+[32m[39m
+Aug-10-2023 14:49:45 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 188.215 ms[39m
+[32m[39m
+Aug-10-2023 14:49:50 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 206.866 ms[39m
+[32m[39m
+Aug-10-2023 14:49:50 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 207.857 ms[39m
+[32m[39m
+Aug-10-2023 14:49:54 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 197.056 ms[39m
+[32m[39m
+Aug-10-2023 14:49:54 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 195.871 ms[39m
+[32m[39m
+Aug-10-2023 14:49:59 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 199.723 ms[39m
+[32m[39m
+Aug-10-2023 14:49:59 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 192.548 ms[39m
+[32m[39m
+Aug-10-2023 14:50:04 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 160.953 ms[39m
+[32m[39m
+Aug-10-2023 14:50:04 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 161.812 ms[39m
+[32m[39m
+Aug-10-2023 14:50:09 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 186.305 ms[39m
+[32m[39m
+Aug-10-2023 14:50:09 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 183.675 ms[39m
+[32m[39m
+Aug-10-2023 14:50:14 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 197.203 ms[39m
+[32m[39m
+Aug-10-2023 14:50:14 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 199.516 ms[39m
+[32m[39m
+Aug-10-2023 14:50:20 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 184.012 ms[39m
+[32m[39m
+Aug-10-2023 14:50:20 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 184.984 ms[39m
+[32m[39m
+Aug-10-2023 14:50:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 188.954 ms[39m
+[32m[39m
+Aug-10-2023 14:50:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 188.361 ms[39m
+[32m[39m
+Aug-10-2023 14:50:30 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 190.371 ms[39m
+[32m[39m
+Aug-10-2023 14:50:30 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 186.419 ms[39m
+[32m[39m
+Aug-10-2023 14:50:35 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 183.606 ms[39m
+[32m[39m
+Aug-10-2023 14:50:35 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 193.046 ms[39m
+[32m[39m
+Aug-10-2023 14:50:40 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 204.584 ms[39m
+[32m[39m
+Aug-10-2023 14:50:40 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 200.859 ms[39m
+[32m[39m
+Aug-10-2023 14:50:45 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 201.308 ms[39m
+[32m[39m
+Aug-10-2023 14:50:45 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 201.513 ms[39m
+[32m[39m
+Aug-10-2023 14:51:15 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 183.567 ms[39m
+[32m[39m
+Aug-10-2023 14:51:15 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 179.482 ms[39m
+[32m[39m
+Aug-10-2023 14:51:20 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 211.270 ms[39m
+[32m[39m
+Aug-10-2023 14:51:20 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 211.749 ms[39m
+[32m[39m
+Aug-10-2023 14:51:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 181.998 ms[39m
+[32m[39m
+Aug-10-2023 14:51:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 186.107 ms[39m
+[32m[39m
+Aug-10-2023 14:51:30 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 169.943 ms[39m
+[32m[39m
+Aug-10-2023 14:51:30 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 177.385 ms[39m
+[32m[39m
+Aug-10-2023 14:51:35 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 175.549 ms[39m
+[32m[39m
+Aug-10-2023 14:51:35 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 171.490 ms[39m
+[32m[39m
+Aug-10-2023 14:51:40 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 195.949 ms[39m
+[32m[39m
+Aug-10-2023 14:51:40 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 194.195 ms[39m
+[32m[39m
+Aug-10-2023 14:52:09 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 191.695 ms[39m
+[32m[39m
+Aug-10-2023 14:52:09 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 187.805 ms[39m
+[32m[39m
+Aug-10-2023 14:52:19 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 191.621 ms[39m
+[32m[39m
+Aug-10-2023 14:52:19 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 196.973 ms[39m
+[32m[39m
+Aug-10-2023 14:52:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 197.412 ms[39m
+[32m[39m
+Aug-10-2023 14:52:25 [32mhttp[39m: [32mPOST /search/serviceLocationSearch 200 36 - 202.717 ms[39m
+[32m[39m
