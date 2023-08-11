@@ -2,22 +2,22 @@ version: '3'
 services:
     app:
         build: ./server_npm_node_js
-        links:
-            - mongo
-        depends_on:
-            - mongo
+ #       links:
+ #           - mongo
+ #       depends_on:
+ #           - mongo
         ports:
             - "5003:5200"
         restart: always
         
-    mongo:
-        image: mongo
-        command: [ "--bind_ip_all","--replSet", "rs"]
-        ports:
-            - "5004:27017"
-        volumes:
-            - "$HOME/healthlens_mongodb1:/data/db"
-        restart: always
+#    mongo:
+#        image: mongo
+#        command: [ "--bind_ip_all","--replSet", "rs"]
+#        ports:
+#            - "5004:27017"
+#        volumes:
+#            - "$HOME/data/healthlens_mongodb:/data/db"
+#        restart: always
 
     es01:
         image: docker.elastic.co/elasticsearch/elasticsearch:${STACK_VERSION}
@@ -62,7 +62,7 @@ services:
         restart: always  
 
 volumes:
-    mongodb:
+#    mongodb:
 
     healthlens_esdata01:
         driver: local
